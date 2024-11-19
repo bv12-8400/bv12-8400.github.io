@@ -6,6 +6,6 @@ featured_image = '/img/1956.jpg'
 +++
 #### 1956 - Luftfoto
 
-Tranbjerggard fra oppe fra
+Tranbjerggard set oppe fra
 
 {{< figure src="/img/1956.jpg" >}}

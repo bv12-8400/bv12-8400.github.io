@@ -50,7 +50,7 @@ Tranbjerggårdens forsyningsområde sammenlægges med Boeslum Bakker vandværks 
 ##### Kilde: Høringsnotat, 10. juni 2018, Syddjurs Kommune
 
 #### 2024 - Resterne af Vandværket
-Privat foto fra Banestien mod masten. Man kan skimpte et lille dæksel som må være de eneste der er tilbage
+Privat foto fra Banestien mod masten. Man kan se et lille dæksel som må være det eneste der er tilbage.
 {{< figure src="/img/vandvaerklokation.jpg" >}}
 
 Et lidt ældre luftfoto viser lokationen inden nedlægning
