@@ -3,3 +3,4 @@ languageCode = 'da-dk'
 title = 'Tranbjerggaard'
 theme = 'ananke'
 summaryLength = 1
+enableRobotsTXT = true
