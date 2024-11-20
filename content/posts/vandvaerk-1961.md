@@ -44,7 +44,7 @@ I løbet af de fem årtier har vandværket leveret ca. 1,2 millioner kubikmeter 
 
 ##### Kilde: ugeavisen.dk, 8. maj 2013, 50 års jubilæum, Åbent hus
 
-#### 1988 - Vandværket nedlagt
+#### 2018 - Vandværket nedlagt
 Tranbjerggårdens forsyningsområde sammenlægges med Boeslum Bakker vandværks forsyningsområde, da Tranbjerggården vandværk er overtaget af Boeslum Bakker vandværk.
 
 ##### Kilde: Høringsnotat, 10. juni 2018, Syddjurs Kommune
